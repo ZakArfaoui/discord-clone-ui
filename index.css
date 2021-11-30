@@ -1,0 +1,61 @@
+
+.root{
+    background-color: rgb(37, 35, 35);
+}
+.imgs{
+    color: rgb(3, 158, 29) !important;
+    background-color: rgb(80, 78, 78);
+}
+.download-signe{
+    color: white;
+}
+.compus{
+    font-size: 2rem;
+}
+
+.test1 >:hover{
+   border: 4px solid rgb(26, 184, 11); 
+}
+.test2 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test3 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test4 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test5 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test6 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test7 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+.test8 >:hover{
+    border: 4px solid rgb(26, 184, 11);
+}
+
+.test2 > div >:hover{
+    color: rgb(17, 137, 184);
+}
+.test3 > div >:hover{
+    color: rgb(17, 137, 184);
+}
+.test4 > div >:hover{
+    color: rgb(17, 137, 184);
+}
+.test5 > div >:hover{
+    color: rgb(17, 137, 184);
+}
+.test6 > div >:hover{
+    color: rgb(17, 137, 184);
+}
+
+
+
+/* .imgs{
+    padding:10px;   
+} */
