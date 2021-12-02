@@ -1,6 +1,19 @@
 
 .root{
-    background-color: rgb(37, 35, 35);
+    background-color: #23272A;
+}
+.left-navbar{
+    background-color: #2C2F33;
+}
+.server-name{
+    border-bottom: 1px solid #1a1c1d;
+    transition: 1s;
+}
+.server-name:hover{
+    background-color: #4b4b50;
+    cursor: pointer;
+    transition: 1s;
+    overflow: hidden;
 }
 .imgs{
     color: rgb(3, 158, 29) !important;
@@ -56,6 +69,3 @@
 
 
 
-/* .imgs{
-    padding:10px;   
-} */
