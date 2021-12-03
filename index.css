@@ -1,4 +1,10 @@
-
+@font-face {
+    font-family: 'oussemata7an';
+    src: url("./fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
+}
+*{
+    font-family: "oussemata7an";
+}
 .root{
     background-color: #23272A;
 }
@@ -69,3 +75,15 @@
 
 
 
+.fa-discord-1{
+    font-size: 25px;
+}
+
+
+.mic:hover, .headphones:hover, .settings:hover{
+    background-color: rgba(255, 255, 255, 0.253);
+}
+.mic, .headphones, .settings{
+    transition-duration: 0.5s;
+    color: #fff;
+}
